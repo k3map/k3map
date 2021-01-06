@@ -51,11 +51,11 @@ Here are some ideas to get you started:
 <br>
 <code><img height="30" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"></code>
 
-<a href="https://github.com/Lucho00Cuba">
-  <img align="center" alt="Lucho | Stats" src="https://github-readme-stats.vercel.app/api?username=lucho00cuba&show_icons=true&theme=dark" />
+<a href="https://github.com/k3map">
+  <img align="center" alt="Lucho | Stats" src="https://github-readme-stats.vercel.app/api?username=k3map&show_icons=true&theme=dark" />
 </a>
 
-<a href="https://github.com/Lucho00Cuba">
-  <img align="center" alt="Lucho | Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucho00cuba&layout=compact&hide=css, scss, javascript&theme=dark"/>
+<a href="https://github.com/k3map">
+  <img align="center" alt="Lucho | Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k3map&layout=compact&hide=css, scss, javascript&theme=dark"/>
 </a>
 
