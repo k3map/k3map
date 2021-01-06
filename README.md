@@ -2,7 +2,7 @@
 
 
 
-I am a self-taught programmer who seeks to improve himself day by day, I like challenges
+I am a self-taught programmer who seeks to improve himself day by day, passionate about learning programming, computer security
 <!--
 **k3map/k3map** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
