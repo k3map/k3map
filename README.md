@@ -49,6 +49,6 @@ Here are some ideas to get you started:
 
 
 <br>
-<code><img height="30" src="https://devicon.dev/devicon.git/icons/linux/linux-original.svg"></code>
+
 
 
